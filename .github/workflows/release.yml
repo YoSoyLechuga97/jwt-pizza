@@ -1,1 +1,9 @@
-
+name: Production release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to release"
+        required: true
+      description:
+        required: true
