@@ -4,6 +4,7 @@ cookies.txt
 config.js
 coverage
 dist
+grafanaKey.txt
 **/.vite
 
 # Playwright
